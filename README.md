@@ -1,4 +1,5 @@
-# signUp
+[signUp](https://signupphonetime.herokuapp.com/)
+
   - Welcome to signUp. Enter a username and phone number to find out if the phone number is valid.
 
 ## Ruby version
