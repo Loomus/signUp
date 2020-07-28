@@ -1,7 +1,5 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# signUp
+  - Welcome to signUp. Enter a username and phone number to find out if the phone number is valid.
 
 ## Ruby version
   - ruby '2.4.1'
